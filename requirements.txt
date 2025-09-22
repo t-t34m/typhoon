@@ -10,3 +10,4 @@ pillow
 typhoon-ocr
 fastapi
 python-dotenv
+uvicorn
