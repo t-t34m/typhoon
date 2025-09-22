@@ -1,0 +1,12 @@
+openai 
+langchain 
+faiss-cpu 
+sentence-transformers 
+sympy 
+langchain_openai 
+langchain-community
+pytesseract 
+pillow
+typhoon-ocr
+fastapi
+python-dotenv
