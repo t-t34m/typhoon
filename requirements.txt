@@ -11,3 +11,4 @@ typhoon-ocr
 fastapi
 python-dotenv
 uvicorn
+python-multipart
